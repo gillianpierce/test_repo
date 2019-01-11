@@ -1,2 +1,2 @@
 # test_repo
-Git training CMPUT 301
+Let's learn git!
